@@ -6,7 +6,7 @@
 
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）
+- https://m15obayasi.github.io/kadai00_cheese/
 
 ## ⑤工夫した点・こだわった点
 
